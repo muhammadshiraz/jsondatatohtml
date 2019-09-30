@@ -9,7 +9,7 @@ Approach:
 - Traverse the JSON data and match key with the column name. Put the value of that key in the respective column.
 Leave the column empty if there is no value of that key - (see snapshot).
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](screenshot.jpg)
 
 
 ## Instructions
